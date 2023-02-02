@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <img src="https://github.com/britnaybeaudry/britnaybeaudry/blob/main/ezgif.com-gif-maker.gif" width="1500">
+    <img src="https://github.com/britnaybeaudry/britnaybeaudry/blob/main/ezgif.com-gif-maker.gif" width="100%" height="100%">
   </kbd>
 </p>
 Here's where you can find me on the web:
